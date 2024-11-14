@@ -16,17 +16,18 @@
    - [Add existing wallet](#add-existing-wallet)
 
 
-### 4. Adding and Managing Cryptocurrencies
-- How to buy crypto using Trust Wallet
-- How to send and receive crypto using Trust Wallet
-- How to check Balance and Transaction history
+4. [Adding and Managing Cryptocurrencies](#adding-and-managing-cryptocurrencies)
+   - [How to buy crypto with Trust Wallet](#how-to-buy-crypto-with-trust-wallet)
+   - [How to send and receive crypto using Trust Wallet](#how-to-send-and-receive-crypto-using-trust-wallet)
+   - [How to Check Balance and Transaction History](#how-to-check-balance-and-transaction-history)
 
-### 5. Trust Wallet Token (TWT)
-### 6. Security Features
-### 7. Troubleshooting
-### 8. Frequently Asked Questions (FAQs)
+5. [Trust Wallet Token (TWT)](#trust-wallet-token-twt)
 
+6. [Security Features](#security-features)
 
+7. [Troubleshooting](#troubleshooting)
+
+8. [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
 
 ## Introduction to Trust Wallet 
 ### 	What is Trust Wallet & what does it do?
@@ -104,3 +105,20 @@ Choose the option that best suits your security and convenience needs.
 •	Select “Restore Wallet.”
 ```
 Your wallet import is complete and ready to use.
+
+
+## Adding and Managing Cryptocurrencies
+### How to buy crypto with Trust Wallet
+To buy a cryptocurrency with Trust Wallet, open your **Main Wallet**, choose a cryptocurrency from the list (in this guide, we will use BTC as an example).
+
+![pic5](https://github.com/user-attachments/assets/ecd6152e-ca95-43e8-bb36-de71d8abf37d)
+```
+•	Go to your Main Wallet > BTC > Buy.
+•	Enter the amount of BTC you want to buy.
+•	Click on ‘Buy with Credit.’
+```
+📝*Note: Trust Wallet does not sell cryptocurrency directly; therefore, all purchases are processed through third-party providers.*
+
+
+![pic6](https://github.com/user-attachments/assets/169901a4-d6c8-4529-8386-f482dd2409e2)
+
