@@ -11,9 +11,10 @@
      - [Setting up Trust Wallet on Desktop Browser](#setting-up-trust-wallet-on-desktop-browser)
      - [Setting up Trust Wallet on Mobile Device](#setting-up-trust-wallet-on-mobile-device)
 
-### 3. Setting Up Account on Trust Wallet
-- Create a new wallet
-- Add existing wallet
+3. [Setting Up Account on Trust Wallet](#setting-up-account-on-trust-wallet)
+   - [Create a new wallet](#create-a-new-wallet)
+   - [Add existing wallet](#add-existing-wallet)
+
 
 ### 4. Adding and Managing Cryptocurrencies
 - How to buy crypto using Trust Wallet
@@ -57,10 +58,35 @@ To install Trust Wallet on your mobile device, follow these steps:
 •	Search for Trust Wallet.
 •	Tap Install to download the app.
 
-![pic1](https://github.com/user-attachments/assets/81462176-351f-4a01-8e38-77843c593908)
+```
+![pic2](https://github.com/user-attachments/assets/801cfa6e-23f6-4948-ba18-dba5a43475d7)
+
 
 Open Trust wallet app once the download completes.
 
+## Setting Up Account on Trust Wallet
+Open the app and select **‘Get Started’** to begin the setup process.
 
-```
+📝*Note: By clicking ‘Get Started,’ you confirm that you have read and agree to Trust Wallet’s Terms of Service and Privacy Policy.*
+
+![pic1](https://github.com/user-attachments/assets/ef7612a2-d4e0-4b2c-a51e-2cb99a63ebbe)
+
+### Create a New Wallet
+Select the **‘Create a new wallet’** option.
+After selecting this option, you will see two choices for creating and recovering your wallet:
+
+
+
+
+1.	**Secret Phrase**
+-	Trust Wallet will provide you with a **Secret Recovery Phrase.** This phrase is crucial for restoring your wallet if you ever lose access to it.
+-	Backup Your Secret Recovery Phrase either manually or to Google Drive, iCloud, in the case of iOS devices.
+  📝*Note: Do not a share secret phrase with anyone, as anyone with access to this phrase can access your funds.*
+
+2.	**Swift** 
+-	Use Face ID or fingerprint recognition to create and recover your wallet. This method securely links your wallet to your device’s passkey for quick, automatic access.
+  
+Choose the option that best suits your security and convenience needs.
+
+
 
