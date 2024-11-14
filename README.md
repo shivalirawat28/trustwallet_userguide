@@ -1,2 +1,1 @@
-# trustwallet_userguide
-Beginners guide to use Trust Wallet
+# Welcome to Beginners Guide to use Trust Wallet
