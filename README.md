@@ -42,11 +42,25 @@ Downloading and accessing Trust Wallet is simple. You can get it as a mobile app
 
 To install Trust Wallet on your desktop browser, follow these steps:
 ```
-- Visit "https://trustwallet.com/download."
-
-- Select "Download for Chrome."
-📝Note: The Chrome extension option is also compatible with Brave, Opera, and Edge browsers.
-
-- Click the "Add to Chrome" to download the Trust Wallet Browser Extension to your desktop.
+•   Visit "https://trustwallet.com/download."
+•   Select "Download for Chrome."
+    📝Note: The Chrome extension option is also compatible with Brave, Opera, and Edge browsers.
+•   Click the "Add to Chrome" to download the Trust Wallet Browser Extension to your desktop.
 ```
 Once the download is complete, the Trust Wallet Browser Extension will be active and ready for use in your browser.
+
+### Setting up Trust Wallet on Mobile Device
+Trust Wallet is available on iOS and Android.
+To install Trust Wallet on your mobile device, follow these steps:
+```
+•	Open the App Store (iOS) or Google Play Store (Android).
+•	Search for Trust Wallet.
+•	Tap Install to download the app.
+
+![pic1](https://github.com/user-attachments/assets/81462176-351f-4a01-8e38-77843c593908)
+
+Open Trust wallet app once the download completes.
+
+
+```
+
