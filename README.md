@@ -127,10 +127,10 @@ To buy a cryptocurrency with Trust Wallet, open your **Main Wallet**, choose a c
 •	Alternatively, click on ‘Pay with Credit’ and select a provider from the list of third-party options. In this guide, we will use MoonPay. 
 
 ```
-•  Choose the provider with the rates that best suit your needs.
-•	Select MoonPay to continue the purchase. Trust Wallet will redirect you to the MoonPay website.
-•	Choose the currency you would like to use to buy BTC.
-```
+•   Choose the provider with the rates that best suit your needs.
+•   Select MoonPay to continue the purchase. Trust Wallet will redirect you to the MoonPay website.
+•   Choose the currency you would like to use to buy BTC.
+``` 
 ![pic7](https://github.com/user-attachments/assets/0b7b7b9b-bf29-4d64-a996-f1ac8540c578)
 
 ```
@@ -143,3 +143,28 @@ To buy a cryptocurrency with Trust Wallet, open your **Main Wallet**, choose a c
 ![pic8](https://github.com/user-attachments/assets/a58e5d56-535a-4d3f-8b53-11d132011104)
 
 Once your purchase is successful, you will receive a confirmation notification, and your BTC will be deposited into your Trust Wallet.
+
+### How to send and receive crypto using Trust Wallet
+Sending and receiving cryptocurrency across different blockchains is easy with Trust Wallet. In this guide, we will use Bitcoin (BTC) as an example.
+
+![pic9](https://github.com/user-attachments/assets/7bf678d1-c31a-489b-922d-5941e094ce34)
+
+```
+- Go to the Main Wallet and click on ‘Bitcoin.’
+- Click on ‘Send’ to initiate the transfer.
+- Enter the wallet address you would like to send BTC to, along with the amount. 
+- Click ‘Continue’ in the top right corner.
+- Review the transaction details and confirm to complete the transfer. You can view the transaction under the Bitcoin tab in your wallet.
+
+```
+📝*Note: Make sure you have enough BTC in your wallet to cover the amount plus the transaction fee.*
+
+```
+- To receive Bitcoin, click on 'Receive.’
+- Copy or share your Bitcoin wallet address with the sender.
+
+```
+
+![pic10](https://github.com/user-attachments/assets/8d91994c-b6c7-477d-bb13-ba3e6d2e5bd6)
+
+Once the transaction is successfully processed, you will receive a notification from Trust Wallet, and the transaction will appear under your Bitcoin tab.
