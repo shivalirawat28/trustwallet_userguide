@@ -26,4 +26,5 @@
 
 
 ## Introduction to Trust Wallet 
+### 	What is Trust Wallet & what does it do?
 
