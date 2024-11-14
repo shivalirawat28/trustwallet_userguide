@@ -96,11 +96,11 @@ Choose the option that best suits your security and convenience needs.
 
 ```
 •	Choose “Add existing wallet.”
-•	Select Your Wallet Type.
+•	Select your wallet type.
 •	Choose “Multi-Coin Wallet” if you want a wallet that manages multiple crypto assets.
-   Alternatively, you can select a specific blockchain if you prefer to manage one type of asset.
+      Alternatively, you can select a specific blockchain if you prefer to manage one type of asset.
 •	Enter Your Secret Phrase
-   📝Note: Carefully enter your secret phrase, either by pasting it or typing it in the exact order you recorded it. 
+      📝Note: Carefully enter your secret phrase, either by pasting it or typing it in the exact order you recorded it. 
 •	Select “Restore Wallet.”
 ```
 Your wallet import is complete and ready to use.
