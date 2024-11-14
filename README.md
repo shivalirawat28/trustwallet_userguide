@@ -218,23 +218,26 @@ Trust Wallet detects potential threats and sends push notifications to the mobil
 
 ## Troubleshooting
 ### Common Issues and How to Resolve Them
-Trust Wallet offers a dedicated )[troubleshooting page](https://community.trustwallet.com/c/helpcenter/troubleshooting/17 where users can resolve many common issues on their own. However, if you are unable to fix an issue, the support team is always available to help.
+Trust Wallet offers a dedicated [troubleshooting page](https://community.trustwallet.com/c/helpcenter/troubleshooting/17)
+where users can resolve many common issues on their own. However, if you are unable to fix an issue, the support team is always available to help.
 
 ### Contacting the Trust Wallet Support Team
-Trust Wallet provides an easily accessible [support team](https://support.trustwallet.com/en/support/home) of real people who are ready to assist. The support team works around the clock to ensure that the Trust Wallet community receives timely and effective assistance.
+Trust Wallet provides an easily accessible [support team](https://support.trustwallet.com/en/support/home)of real people who are ready to assist. The support team works around the clock to ensure that the Trust Wallet community receives timely and effective assistance.
 
 ## Frequently Asked Questions (FAQs)
 - Is trust wallet safe?
-   Yes, Trust Wallet ensures the utmost security for your digital assets. It regularly performs security audits to detect 
-   and fix any potential vulnerabilities. Your private keys are securely encrypted using the AES algorithm.
+  
+  Yes, Trust Wallet ensures the utmost security for your digital assets. It regularly performs security audits to detect and fix any potential vulnerabilities. Your private keys are securely encrypted using the AES algorithm.
  
 - Lost my password: How do I restore my wallet?
+  
   If you forget your password, you can restore your wallet using your Secret Recovery Phrase. Simply follow these steps:
   1. Open Trust Wallet.
   2. On the login screen, select "I already have a wallet."
   3. Enter your Secret Recovery Phrase to regain access.
 
 - Why did my Trust Wallet app crash?
+  
   App crashes can occur due to various reasons, such as:
   1. Insufficient memory on your device.
   2. Outdated app version.
@@ -242,12 +245,16 @@ Trust Wallet provides an easily accessible [support team](https://support.trustw
   To resolve this, try restarting the app, clearing cache data, or updating to the latest version of Trust Wallet.
  
 - Does trust wallet need KYC?
+  
   Trust Wallet does not require KYC (Know Your Customer) documentation, as it is a decentralized platform.
 
 - Does Trust Wallet charge fees?
+  
   Trust Wallet is free to use, but there are network fees for sending and receiving cryptocurrencies.
 
 - Can Trust Wallet be used to store any type of cryptocurrency, or are there limitations on the coins and tokens supported
-  Trust Wallet supports all major cryptocurrencies. You can store the vast majority of coins and tokens on this mobile 
+  Trust Wallet supports all major cryptocurrencies.
+
+  You can store the vast majority of coins and tokens on this mobile 
   wallet app.
  
