@@ -168,3 +168,51 @@ Sending and receiving cryptocurrency across different blockchains is easy with T
 ![pic10](https://github.com/user-attachments/assets/8d91994c-b6c7-477d-bb13-ba3e6d2e5bd6)
 
 Once the transaction is successfully processed, you will receive a notification from Trust Wallet, and the transaction will appear under your Bitcoin tab.
+
+### How to Check Balance and Transaction History
+In this guide, we will use the BTC token to check your balance and transaction history.
+
+![pic11](https://github.com/user-attachments/assets/c2881174-1cba-4498-99f6-22da2f592536)
+
+```
+•	Open Trust Wallet.
+•	On the Home screen, go to the Tokens section and select BTC.
+•	View Balance and History. Your BTC balance will be shown at the top with a list of all your BTC transactions displayed below it.
+```
+
+## Trust Wallet Token (TWT)
+The Trust Wallet Token (TWT) is the native utility token within the Trust Wallet ecosystem. TWT holders can participate in governance decisions, such as what kind of blockchain support can be added to shape the platform’s future, discounts, payments, and much more. $TWT empowers holders to take an active role in Trust Wallet’s development and community decisions.
+
+## Security Features 
+Trust Wallet is secured with multiple layers of protection to keep your assets safe and secure.
+Here is an overview of the security measures implemented by Trust Wallet to protect your assets and ensure a secure experience.
+
+**Security audits:** Trust Wallet works with leading security experts, including its in-house security teams and trusted third-party auditors, to regularly review and test its app and infrastructure for safety. These regular security audits quickly detect and fix any potential vulnerabilities.
+
+Here are some security audits that were conducted routinely:
+
+- External public library starknet-rs1 cryptographic review conducted by Kudelski - September 2023 View Report
+- Smart Contract Wallet Audit Report conducted by Certik - June 2023 [ View Report](https://strapi-cdn.trustwallet.com/Kudelski_Trust_Wallet_Audit_efeddfb567.pdf)
+- Smart Contract Wallet Audit Report conducted by Halborn - June 2023 [View Report](https://strapi-cdn.trustwallet.com/Certik_Trustwallet_barz_Audit_ec38067a76.pdf)
+- Browser Extension Security Audit Report conducted by Cure53 – April 2023 [View Report](https://strapi-cdn.trustwallet.com/Halborn_Trustwallet_barz_Audit_1ef8a1f069.pdf)
+- Browser Extension Security Audit Report conducted by Certik - February 2023 [View Report](https://trustwallet.com/assets/files/cure53_tw_browser_extension_04.2023.pdf)
+- Penetration Test and Security Evaluation for Trust Wallet Assets conducted by Salus – April 2024 [View Report](https://strapi-cdn.trustwallet.com/Penetration_Testing_Report_for_Trust_Wallet_5638499b01.pdf)
+
+ 
+
+**State-of-the-art encryption and security:** The AES algorithm securely encrypts your private keys and stores them safely on your device. Trust Wallet strongly hashes the passcode you set before saving it in a tamper-proof key store on your device.
+
+Trust Wallet detects potential threats and sends push notifications to the mobile app and browser extension depending on the urgency of the issue. These alerts may include specific instructions, helpful links to guides, and contact information to ensure you know exactly how to tackle these threats.
+
+![pic12](https://github.com/user-attachments/assets/37acef3f-fbe9-485d-954e-5591a414204b)
+
+
+📝*Note: It is recommended to turn on the Trust Wallet notifications on your mobile device and desktop browser to stay informed of important updates and security alerts.*
+ 
+
+**Easy access to support team:** Trust Wallet offers an accessible [support team](https://support.trustwallet.com/en/support/home) of real people who are always ready to assist you. 
+
+ 
+**Trust Wallet Security Scanner:** The Trust Wallet Security Scanner proactively assigns a risk level to each transaction and alerts users to potential threats, such as sending tokens to suspicious addresses. This feature helps protect against phishing scams, increases wallet security, and keeps your tokens safe.
+
+ 
