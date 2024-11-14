@@ -69,7 +69,8 @@ Open the app and select **‘Get Started’** to begin the setup process.
 
 📝*Note: By clicking ‘Get Started,’ you confirm that you have read and agree to Trust Wallet’s Terms of Service and Privacy Policy.*
 
-![pic1](https://github.com/user-attachments/assets/ef7612a2-d4e0-4b2c-a51e-2cb99a63ebbe)
+![pic3](https://github.com/user-attachments/assets/0b84a577-6bd9-49f3-87d2-60b1f1ed6004)
+
 
 ### Create a New Wallet
 Select the **‘Create a new wallet’** option.
@@ -80,7 +81,8 @@ After selecting this option, you will see two choices for creating and recoverin
 
 1.	**Secret Phrase**
 -	Trust Wallet will provide you with a **Secret Recovery Phrase.** This phrase is crucial for restoring your wallet if you ever lose access to it.
--	Backup Your Secret Recovery Phrase either manually or to Google Drive, iCloud, in the case of iOS devices.
+-	Backup your Secret Recovery Phrase either manually or to Google Drive, iCloud, in the case of iOS devices.
+  
   📝*Note: Do not a share secret phrase with anyone, as anyone with access to this phrase can access your funds.*
 
 2.	**Swift** 
@@ -88,5 +90,17 @@ After selecting this option, you will see two choices for creating and recoverin
   
 Choose the option that best suits your security and convenience needs.
 
+###  Add Existing Wallet
 
+![pic4](https://github.com/user-attachments/assets/00a6abd8-6f87-47ca-9505-430c6d15c630)
 
+```
+•	Choose “Add existing wallet.”
+•	Select Your Wallet Type.
+•	Choose “Multi-Coin Wallet” if you want a wallet that manages multiple crypto assets.
+   Alternatively, you can select a specific blockchain if you prefer to manage one type of asset.
+•	Enter Your Secret Phrase
+   📝Note: Carefully enter your secret phrase, either by pasting it or typing it in the exact order you recorded it. 
+•	Select “Restore Wallet.”
+```
+Your wallet import is complete and ready to use.
