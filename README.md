@@ -1,7 +1,7 @@
 # Welcome to Beginners Guide to Trust Wallet
 
 ## Table of Content
-### 1. [Introduction to Trust Wallet] (#introduction-to-trust-wallet)
+1. [Introduction to Trust Wallet](#introduction-to-trust-wallet)
 - What is Trust Wallet & what does it do?
 - Guide Overview
 
@@ -25,5 +25,5 @@
 
 
 
-### Introduction to Trust Wallet (#introduction-to-trust-wallet)
+## Introduction to Trust Wallet 
 
