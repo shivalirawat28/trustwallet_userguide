@@ -122,3 +122,24 @@ To buy a cryptocurrency with Trust Wallet, open your **Main Wallet**, choose a c
 
 ![pic6](https://github.com/user-attachments/assets/169901a4-d6c8-4529-8386-f482dd2409e2)
 
+
+
+•	Alternatively, click on ‘Pay with Credit’ and select a provider from the list of third-party options. In this guide, we will use MoonPay. 
+
+```
+•  Choose the provider with the rates that best suit your needs.
+•	Select MoonPay to continue the purchase. Trust Wallet will redirect you to the MoonPay website.
+•	Choose the currency you would like to use to buy BTC.
+```
+![pic7](https://github.com/user-attachments/assets/0b7b7b9b-bf29-4d64-a996-f1ac8540c578)
+
+```
+
+• View your BTC amount that will be deposited into your Trust Wallet once the transaction is completed.
+• Enter your email address and click on ‘Continue.’ This will allow the provider to send you a six-digit verification code.
+• Enter the verification code and click on ‘Continue.’
+• Enter your personal details like your name, date of birth, billing address, and debit card details and confirm to proceed with the transaction.
+```
+![pic8](https://github.com/user-attachments/assets/a58e5d56-535a-4d3f-8b53-11d132011104)
+
+Once your purchase is successful, you will receive a confirmation notification, and your BTC will be deposited into your Trust Wallet.
