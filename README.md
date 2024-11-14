@@ -2,8 +2,10 @@
 
 ## Table of Content
 1. [Introduction to Trust Wallet](#introduction-to-trust-wallet)
-- What is Trust Wallet & what does it do?
-- Guide Overview
+   - [What is Trust Wallet & what does it do?](#what-is-trust-wallet--what-does-it-do)
+   - [Guide Overview](#guide-overview)
+
+
 
 ### 2. Downloading and Installing Trust Wallet
 - Setting up Trust Wallet on Desktop Browser
@@ -27,4 +29,7 @@
 
 ## Introduction to Trust Wallet 
 ### 	What is Trust Wallet & what does it do?
+Trust Wallet is a secure and easy-to-use cryptocurrency wallet that lets you store, send, receive, and manage different types of digital assets all in one place. It is a self-custody wallet, which means you are in full control of your private keys and your assets. Only you have access to your funds, providing an extra layer of security. Trust Wallet supports numerous popular native assets, along with major tokens on the Ethereum, Binance, and TRON blockchains.
+###   Guide Overview
+This beginner's guide introduces you to using the Trust Wallet app and covers how to buy, receive, send, and store crypto. It also covers the Trust Wallet Token (TWT), the app’s safety and security features, and, lastly, how to troubleshoot and get support
 
