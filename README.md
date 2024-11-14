@@ -7,9 +7,9 @@
 
 
 
-### 2. Downloading and Installing Trust Wallet
-- Setting up Trust Wallet on Desktop Browser
-- Setting up Trust Wallet on Mobile Device
+2.   [Downloading and Installing Trust Wallet](#downloading-and-installing-trust-wallet)
+     - [Setting up Trust Wallet on Desktop Browser](#setting-up-trust-wallet-on-desktop-browser)
+     - [Setting up Trust Wallet on Mobile Device](#setting-up-trust-wallet-on-mobile-device)
 
 ### 3. Setting Up Account on Trust Wallet
 - Create a new wallet
@@ -33,3 +33,5 @@ Trust Wallet is a secure and easy-to-use cryptocurrency wallet that lets you sto
 ###   Guide Overview
 This beginner's guide introduces you to using the Trust Wallet app and covers how to buy, receive, send, and store crypto. It also covers the Trust Wallet Token (TWT), the app’s safety and security features, and, lastly, how to troubleshoot and get support
 
+## Downloading and Installing Trust Wallet
+Downloading and accessing Trust Wallet is simple. You can get it as a mobile app for your Android or iOS device, or as a browser extension. For official download links, visit the Trust Wallet website’s [download page](https://trustwallet.com/download), where you will find all available options.
